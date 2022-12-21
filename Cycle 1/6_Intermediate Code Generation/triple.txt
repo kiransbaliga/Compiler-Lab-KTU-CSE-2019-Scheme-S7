@@ -1,0 +1,4 @@
+Triple
+IN	OP	O1	O2
+1	*	B	C
+2	+	a	1

@@ -1,0 +1,4 @@
+Quadruple
+OP	O1	O2	RES
+*	B	C	t1
++	a	t1	t2
